@@ -1,5 +1,4 @@
-# Ex.No: 2   Write a program in Python language for Matrix multiplication fails. Introspect 
-             the causes for its failure and write down the possible reasons for its failure.
+# Ex.No: 2   Matrix Multiplication
 
 ### DATE: 20-08-24                                                                           
 ### REGISTER NUMBER : 212222040118
